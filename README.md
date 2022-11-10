@@ -5,7 +5,7 @@
 <a href="#"><img title="Script" src="https://img.shields.io/badge/Script%20-Encrypted-green?style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="#"><img title="Version" src="https://img.shields.io/badge/Version-1.0-green.svg?style=flat-square"></a>
+<a href="#"><img title="Version" src="https://img.shields.io/badge/Version-2.0-green.svg?style=flat-square"></a>
 <a href="#"><img title="Language" src="https://img.shields.io/badge/Language-Python-blue.svg?style=flat-square"></a>
 <a href="https://github.com/somirit/cloneritx/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/somirit/cloneritx?color=red&style=flat-square"></a>
 <a href="https://github.com/somirit/cloneritx/network/members"><img title="Forks" src="https://img.shields.io/github/forks/somirit/cloneritx?color=red&style=flat-square"></a>
